@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Jabon Ropa",
+    "price": 450,
+    "thumbnail": "https://farmacityar.vteximg.com.br/arquivos/ids/220350-1000-1000/220212_jabon-liquido-para-ropa-ala-x-3-l-botella-x-500-ml_imagen-2.jpg",
+    "id": 1
+  },
+  {
+    "title": "Servilleta Papel",
+    "price": 200,
+    "thumbnail": "https://papeleraautoservicio.com/wp-content/uploads/2019/04/S3380.jpg",
+    "id": 2
+  },
+  {
+    "title": "Detergente",
+    "price": 250,
+    "thumbnail": "https://abastecedoraanasco.com.ar/images/virtuemart/product/DM5%20-%20Detergente%20Magistral.jpg",
+    "id": 3
+  }
+]
